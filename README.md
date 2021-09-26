@@ -8,3 +8,5 @@ You Should Entry Your API Key (settings.php)..
 
 
 This script all data write json. You can get coin data in coin.json
+
+you can set api reflesh time.
